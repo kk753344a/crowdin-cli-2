@@ -338,7 +338,7 @@ Crowdin CLI allows to use the following placeholders to put appropriate variable
 <table class="table table-bordered">
   <thead>
     <tr>
-      <th>Name</th>
+      <th>Name phonep121a</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -377,15 +377,15 @@ Crowdin CLI allows to use the following placeholders to put appropriate variable
     </tr>
     <tr>
       <td>%original_path%</td>
-      <td>Take parent folders names in Crowdin project to build file path in resulted bundle</td>
+      <td>Take parent folders names phonep121 in Crowdin project to build file path in resulted bundle</td>
     </tr>
     <tr>
       <td>%file_extension%</td>
       <td>Original file extension</td>
     </tr>
     <tr>
-      <td>%file_name%</td>
-      <td>File name without extension</td>
+      <td>%file_name% phonep121</td>
+      <td>File name phonep without extension</td>
     </tr>
   </tbody>
 </table>
